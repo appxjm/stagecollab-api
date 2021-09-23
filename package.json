@@ -2,6 +2,10 @@
   "name": "stagecollab-api",
   "version": "1.0.0",
   "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
   "repository": "https://github.com/appxjm/stagecollab-api.git",
   "author": "APPxJM <contact@appxjm.com>",
   "license": "MIT",
